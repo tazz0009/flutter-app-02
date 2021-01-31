@@ -7,6 +7,7 @@ Plant App - Flutter UI - Speed Code 따라서 구현해봄.
 
 
 ## chap02 (6:56)
+- heaer with searchbox
 
 ###이슈
 pubspec.yaml
@@ -15,3 +16,5 @@ pubspec.yaml
 flutter_svg: ^0.18.0 #it helps us to use SVG
 ```
 
+## chap03 (10:38)
+- title with more bnt
