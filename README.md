@@ -16,5 +16,8 @@ pubspec.yaml
 flutter_svg: ^0.18.0 #it helps us to use SVG
 ```
 
-## chap03 (10:38)
+## chap03 (~10:38)
 - title with more bnt
+
+## chap04 (~15:30)
+- recommend plants

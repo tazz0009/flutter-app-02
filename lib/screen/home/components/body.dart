@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:plant_app/constants.dart';
 
 import 'header_with_searchbox.dart';
 import 'title_with_more_btn.dart';
+import 'recommend_plants.dart';
 
 class Body extends StatelessWidget {
   @override
@@ -18,7 +18,9 @@ class Body extends StatelessWidget {
         TitleWithMoreBtn(
           title: "Recommaded",
           press: () {},
-        )
+        ),
+        // it will cover 40% of our total width
+        RecommendsPlants()
       ],
     ));
   }
